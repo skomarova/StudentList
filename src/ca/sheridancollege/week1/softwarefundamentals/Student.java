@@ -13,26 +13,6 @@ public class Student {
     
     private String name;
 
-    private String age;
-
-    /**
-     * Get the value of age
-     *
-     * @return the value of age
-     */
-    public String getAge() {
-        return age;
-    }
-
-    /**
-     * Set the value of age
-     *
-     * @param age new value of age
-     */
-    public void setAge(String age) {
-        this.age = age;
-    }
-
     /**
      * Get the value of name
      *
